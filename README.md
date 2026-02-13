@@ -1,5 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats-fast.vercel.app/api?username=phoshp&theme=dark&custom_title=peroxymonophosphoric%20acid&include_all_commits=true&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-kappa-plum-28.vercel.app/api?username=phoshp&theme=dark&custom_title=peroxymonophosphoric%20acid&include_all_commits=true&show_icons=true&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=phoshp&theme=dark&layout=compact&langs_count=10)
+![langs](https://github-readme-stats-kappa-plum-28.vercel.app/api/top-langs/?username=phoshp&theme=dark&layout=compact&langs_count=16)
 
 ## Discord: [Emre](https://discordapp.com/users/346325016700387328/)
